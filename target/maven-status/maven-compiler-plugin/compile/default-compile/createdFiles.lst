@@ -1,8 +1,0 @@
-com\hzzz\data\FakeData.class
-com\hzzz\application\ListAllCategories.class
-com\hzzz\application\QueryCategories.class
-com\hzzz\data\CommodityQuery.class
-com\hzzz\model\Category.class
-com\hzzz\application\QueryCommodities.class
-com\hzzz\model\Commodity.class
-com\hzzz\application\DropWizardApplication.class
